@@ -373,16 +373,18 @@ time {
   text-align: center;
 }
 .b1{
-  max-width: 48rem;
+  max-width: 52rem;
   margin: 0 auto;
   padding: 0 2rem;
   background: #F4B9B2;
+  border-radius: 5px;
 }
 .b2{
-  max-width: 48rem;
+  max-width: 52rem;
   margin: 0 auto;
   padding: 0 2rem;
   background: #7DBBC3;
+  border-radius: 5px;
 }
 .b1 h3{
   font-size: 25px;
