@@ -63,18 +63,10 @@ body {
   
 }
 .home p{
-  width: 50%;
+  width: 80%;
   font-size: 18px;
 }
-.photo{
-  position: absolute;
-  top: 180px;
-  right: 150px;
 
-}
-img{
-  border-radius: 10%;
-}
 
 .container {
   width: 90%;
@@ -443,23 +435,23 @@ time {
 
 
 .bar.c::before{
-  width: calc(95% - 10px);
+  width: calc(100% - 10px);
   background-color: #dbbbf5;
 }
 .bar.m::before{
-  width: calc(85% - 10px);
+  width: calc(75% - 10px);
   background-color: ##f3b0ff;
 }
 .bar.e::before{
-  width: calc(70% - 10px);
+  width: calc(65% - 10px);
   background-color: #ddf0ff;
 }
 .bar.p::before{
-  width: calc(45% - 10px);
+  width: calc(35% - 10px);
   background-color: #dbbbf5;
 }
 .bar.mw::before{
-  width: calc(60% - 10px);
+  width: calc(65% - 10px);
   background-color: ##f3b0ff;
 }
 .bar.me::before{
@@ -470,12 +462,12 @@ time {
   width: calc(75% - 10px);
   background-color: #dbbbf5;
 }
-.bar.pr::before{
-  width: calc(53% - 10px);
-  background-color: #ddf0ff;
-}
 .bar.py::before{
-  width: calc(43% - 10px);
+  width: calc(40% - 10px);
+  background-color: #f3b0ff;
+}
+.bar.cp::before{
+  width: calc(35% - 10px);
   background-color: #f3b0ff;
 }
 
